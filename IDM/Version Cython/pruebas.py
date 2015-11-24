@@ -1,0 +1,3 @@
+import tfgmain
+
+tfgmain.main()
